@@ -1,0 +1,5 @@
+# ignorar arquivos python compilados
+*.pyc
+
+
+#/README_images
